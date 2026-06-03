@@ -65,7 +65,7 @@
     <td width="50%">
       <h3 align="center">🏨 Hostel Gateway System</h3>
       <p align="center">
-        <a href="[https://github.com/your-repo-link](https://github.com/kamesh2103/Hostel_Gateway_System.git)" target="_blank">
+        <a href="https://github.com/kamesh2103/Hostel_Gateway_System.git" target="_blank">
           <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -75,10 +75,10 @@
     <td width="50%">
       <h3 align="center">🛒 KalmAura</h3>
       <p align="center">
-        <a href="https://your-live-link.com" target="_blank">
+        <a href="https://kalmaura-pi.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
         </a>
-        <a href="https://github.com/your-repo-link" target="_blank">
+        <a href="https://github.com/kamesh2103/Kalm-Aura.git" target="_blank">
           <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -90,10 +90,10 @@
     <td width="50%">
       <h3 align="center">🏥 Disease Predictor</h3>
       <p align="center">
-        <a href="https://your-live-link.com" target="_blank">
+        <a href="https://symptom-checker-frontend-83hi.onrender.com" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render"/>
         </a>
-        <a href="https://github.com/your-repo-link" target="_blank">
+        <a href="https://github.com/kamesh2103/Disease_Predictor.git" target="_blank">
           <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
