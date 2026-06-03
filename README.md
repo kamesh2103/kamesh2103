@@ -5,7 +5,7 @@
 ### 🚀 Full Stack Developer | Spring Boot · MERN Stack · ML Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfoliodark.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamesh2103 )
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamesh2103)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kameshramesh006@gmail.com)
 
@@ -65,7 +65,7 @@
     <td width="50%">
       <h3 align="center">🏨 Hostel Gateway System</h3>
       <p align="center">
-        <a href="https://github.com/your-repo-link" target="_blank">
+        <a href="[https://github.com/your-repo-link](https://github.com/kamesh2103/Hostel_Gateway_System.git)" target="_blank">
           <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
