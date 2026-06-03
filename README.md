@@ -100,10 +100,18 @@
       <p>ML-based <b>symptom prediction system</b> for preliminary health assessment. REST APIs via Flask, serialized model artifacts, and responsive frontend with real-time validation.</p>
       <p><b>Stack:</b> Python · Flask · React/Vite · Tailwind CSS</p>
     </td>
-    <td width="50%">
-      <h3 align="center">💡 More Coming Soon...</h3>
-      <p align="center">🚧 Always building something new!</p>
-      <p>Currently exploring <b>Cloud-Native architectures</b>, <b>NLP models</b>, and <b>Blockchain</b> applications.</p>
+     <td width="50%">
+      <h3 align="center">🏥 Disease Predictor</h3>
+      <p align="center">
+        <a href="https://symptom-checker-frontend-83hi.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=render"/>
+        </a>
+        <a href="https://github.com/kamesh2103/Disease_Predictor.git" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repo-blue?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p>ML-based <b>symptom prediction system</b> for preliminary health assessment. REST APIs via Flask, serialized model artifacts, and responsive frontend with real-time validation.</p>
+      <p><b>Stack:</b> Python · Flask · React/Vite · Tailwind CSS</p>
     </td>
   </tr>
 </table>
