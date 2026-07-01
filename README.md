@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Kamesh%20R&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Kamesh%20R&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontFamily=Poppins" width="100%"/>
 
 <a href="https://github.com/kameshramesh006">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+MERN+Stack+%7C+JWT+Authentication;Building+secure%2C+scalable+backend+systems;Open+to+Software+Development+Internships" alt="Typing SVG" />
@@ -15,8 +15,8 @@
 
 <a href="mailto:kameshramesh006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="tel:+918680892898"><img src="https://img.shields.io/badge/Phone-+91%208680892898-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/kamesh2103"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://portfoliodark.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -51,7 +51,7 @@ secure, scalable backend systems and contribute to real-world product developmen
     <td>B.Tech, Information Technology</td>
     <td>Madras Institute of Technology, Anna University</td>
     <td>2023 – 2027</td>
-    <td>CGPA: 8.4 (till 4th Sem)</td>
+    <td>CGPA: 8.41 (till 5th Sem)</td>
   </tr>
   <tr>
     <td>HSC</td>
@@ -131,7 +131,7 @@ secure, scalable backend systems and contribute to real-world product developmen
 </div>
 
 ### 🏨 Hostel Gateway System
-<sub><b>Spring Boot · MySQL · React · Tailwind CSS</b></sub> — [Code](#)
+<sub><b>Spring Boot · MySQL · React · Tailwind CSS</b></sub> — [Code](https://github.com/kamesh2103/Hostel_Gateway_System.git)
 
 - Built a full-stack Hostel Outpass Automation System to streamline student exit approvals.
 - Implemented JWT-based authentication and Role-Based Access Control (Admin, Warden, Student, Security).
@@ -142,7 +142,7 @@ secure, scalable backend systems and contribute to real-world product developmen
 <br/>
 
 ### 🛒 KalmAura — MERN E-Commerce Platform
-<sub><b>React/Vite · Tailwind CSS · Node.js · MongoDB</b></sub> — [Live](#) · [Code](#)
+<sub><b>React/Vite · Tailwind CSS · Node.js · MongoDB</b></sub> — [Live](https://kalmaura-pi.vercel.app) · [Code](https://github.com/kamesh2103/Kalm-Aura.git)
 
 - Developed a full-stack e-commerce platform with secure user authentication and order management.
 - Implemented JWT authentication with role-based access (Customer, Seller, Admin).
@@ -153,7 +153,7 @@ secure, scalable backend systems and contribute to real-world product developmen
 <br/>
 
 ### 🩺 Disease Predictor — ML Project
-<sub><b>React/Vite · Tailwind CSS · Python · Flask</b></sub> — [Live](#) · [Code](#)
+<sub><b>React/Vite · Tailwind CSS · Python · Flask</b></sub> — [Live](https://symptom-checker-frontend-83hi.onrender.com) · [Code](https://github.com/kamesh2103/Disease_Predictor.git)
 
 - Developed a machine learning-based symptom prediction system for preliminary health assessment.
 - Trained and integrated a predictive model using Python with serialized model artifacts.
