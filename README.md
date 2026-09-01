@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=250&section=header&text=Hi%20There,%20I'm%20Kamesh%20R&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=52&descSize=20&animation=fadeIn&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=250&section=header&text=Hi%20There,%20I'm%20Kamesh%20R&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%2FNLP%20Enthusiast&descAlignY=52&descSize=20&animation=fadeIn&fontFamily=Poppins" width="100%"/>
 
 <a href="https://github.com/kameshramesh006">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Spring+Boot+%7C+MERN+Stack+%7C+JWT+Authentication;Building+secure%2C+scalable+backend+systems;Open+to+Software+Development+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Spring+Boot+%7C+MERN+Stack+%7C+JWT+Authentication;Fine-tuning+Transformers+for+Low-Resource+NLP;Building+secure%2C+scalable+full-stack+systems;Open+to+Software+Development+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/📍_Chennai,_Tamil_Nadu-6366F1?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/🎓_CGPA_8.4/10-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🎓_CGPA_8.5/10-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/💼_Open_to_Internships-EC4899?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
@@ -34,10 +34,10 @@
 
 ### 🎯 About Me
 
-Aspiring **Full Stack Developer** with hands-on experience in **Spring Boot**, the **MERN stack**, and **JWT-based authentication systems**. I love building secure, scalable backend architectures and clean, real-time frontend experiences. Currently seeking a **Software Development Internship** to contribute to real-world product development.
+IT engineer combining **full-stack development** (Spring Boot, MERN, Flask) with **applied machine learning and NLP** — including fine-tuning transformer models for low-resource language translation. Comfortable owning a project end-to-end, from data curation and model training through API design, deployment, and CI/CD. Currently seeking a **Software Development Internship** to contribute to real-world product development.
 
-- 🔭 Currently building full-stack systems with **Spring Boot** & **React**
-- 🌱 Deepening my knowledge of **system design** and **cloud deployment**
+- 🔭 Currently building full-stack systems with **Spring Boot**, **React** & fine-tuned **Transformer models**
+- 🌱 Deepening my knowledge of **system design**, **cloud deployment**, and **applied NLP**
 - ⚡ Fun fact: I enjoy turning tedious manual workflows into automated systems
 
 </td>
@@ -63,7 +63,7 @@ Aspiring **Full Stack Developer** with hands-on experience in **Spring Boot**, t
     <td>Madras Institute of Technology, Anna University</td>
     <td>B.Tech, Information Technology</td>
     <td>2023 – 2027</td>
-    <td><b>CGPA: 8.41</b> (till 5th Sem)</td>
+    <td><b>CGPA: 8.5</b> (till 5th Sem)</td>
   </tr>
   <tr>
     <td>Krishnasamy Matric Hr. Sec. School of Excellence, Cuddalore</td>
@@ -95,7 +95,16 @@ Aspiring **Full Stack Developer** with hands-on experience in **Spring Boot**, t
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgres" height="48"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,mongodb,mysql,postgres" height="48"/>
+
+<br/><br/>
+
+**ML / AI**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LoRA_(PEFT)-1a1a2e?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/NLP-1a1a2e?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
 
@@ -126,61 +135,66 @@ Aspiring **Full Stack Developer** with hands-on experience in **Spring Boot**, t
 <tr>
 <td width="50%" valign="top">
 
-### 🏨 Hostel Gateway System
-<sub><b>Spring Boot · MySQL · React · Tailwind CSS</b></sub>
+### 🛡️ CySecTamil — English–Tamil MT
+<sub><b>Python · PyTorch · Transformers · PEFT (LoRA) · NLLB-200</b></sub>
 
-Full-stack Hostel Outpass Automation System streamlining student exit approvals with JWT auth and Role-Based Access Control across Admin, Warden, Student, and Security roles.
+Domain-adapted machine translation system fine-tuning Meta's NLLB-200 with LoRA adapters on a curated bilingual cybersecurity corpus (2,028 terms, 3,299 sentences) — outperforming Google Translate and IndicTrans2 on domain-specific terminology.
 
-- ⚡ RESTful APIs with Spring Boot + MySQL
-- 🔐 JWT authentication & RBAC
-- 📊 Real-time role-specific dashboards
-- ✅ Approval tracking & late-return monitoring
+- 🧠 LoRA fine-tuning of NLLB-200 for low-resource translation
+- 📚 Curated bilingual cybersecurity corpus
+- 🤖 Simplified Tamil explanations via Llama-3.1-405B-Instruct
+- ✅ Validated with domain experts
 
-<a href="https://github.com/kamesh2103/Hostel_Gateway_System.git"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 KalmAura — MERN E-Commerce
-<sub><b>React/Vite · Tailwind · Node.js · MongoDB</b></sub>
+### 🏨 Outpass Management System
+<sub><b>Spring Boot · MySQL · React · JWT</b></sub>
 
-Full-stack e-commerce platform with secure authentication, order management, and role-based access for Customer, Seller, and Admin.
+Full-stack hostel exit automation system that reduced manual processing time by 70%, with JWT-based Role-Based Access Control across Admin, Warden, Student, and Security roles.
 
-- 🔐 JWT authentication with role-based access
-- 🛍️ Complete CRUD for products, carts, inventory
-- 🗄️ Scalable MongoDB schemas via Mongoose
-- 🚀 CI/CD deployment on Vercel
+- ⚡ RESTful APIs via Spring Boot + JPA/Hibernate
+- 🔐 JWT authentication & RBAC
+- 📊 Real-time role-specific dashboards
+- ✅ Approval tracking & request workflows
 
-<a href="https://kalmaura-pi.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/kamesh2103/Kalm-Aura.git"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/kamesh2103/Hostel_Gateway_System.git"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 Disease Predictor — ML Project
-<sub><b>React/Vite · Tailwind · Python · Flask</b></sub>
+### 🛒 KalmAura — MERN E-Commerce
+<sub><b>MERN Stack · Tailwind CSS · PayPal Sandbox</b></sub>
 
-Machine learning-based symptom prediction system for preliminary health assessment, powered by a serialized model served through Flask REST APIs.
+Full-stack e-commerce platform with dual-role (Admin & User) functionality for product management, cart operations, and order processing.
 
-- 🧠 Predictive model integration with Python
-- 🔌 Secure REST APIs via Flask
-- 📱 Responsive UI with real-time validation
-- ☁️ Deployed on Render with stable CI/CD
+- 🔐 JWT authentication with role-based access
+- 💳 PayPal sandbox payment gateway integration
+- 🛍️ Secure checkout with order history tracking
+- 🗄️ Scalable MongoDB schemas via Mongoose
 
-<a href="https://symptom-checker-frontend-83hi.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=render&logoColor=white"/></a>
-<a href="https://github.com/kamesh2103/Disease_Predictor.git"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://kalmaura-pi.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/kamesh2103/Kalm-Aura.git"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ More Coming Soon
-<sub><b>Always building something new</b></sub>
+### 🩺 Disease Predictor
+<sub><b>Python · Flask · React · Extra Trees · XGBoost · Random Forest</b></sub>
 
-I'm constantly working on new projects to sharpen my full-stack and system design skills. Check back soon or explore my GitHub for the latest work.
+ML-based disease prediction system using ensemble classifiers for real-time symptom analysis, delivering disease probability, descriptions, and precautionary care recommendations.
 
-<a href="https://github.com/kamesh2103?tab=repositories"><img src="https://img.shields.io/badge/See_All_Repos-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
+- 🧠 Ensemble model: Extra Trees, XGBoost, Random Forest
+- 🔌 Confidence-based validation via Flask REST API
+- 📱 Responsive UI with real-time input validation
+- ☁️ Deployed with stable CI/CD on Render
+
+<a href="https://symptom-checker-frontend-83hi.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-EC4899?style=flat-square&logo=render&logoColor=white"/></a>
+<a href="https://github.com/kamesh2103/Disease_Predictor.git"><img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -196,9 +210,14 @@ I'm constantly working on new projects to sharpen my full-stack and system desig
 
 <table width="100%">
   <tr>
-    <th align="left">📜 Certificate</th>
+    <th align="left">📜 Certificate / Achievement</th>
     <th align="left">📝 Description</th>
     <th align="left">🏢 Source</th>
+  </tr>
+  <tr>
+    <td><b>Smart India Hackathon 2025</b></td>
+    <td>Participant — built MediReach, a medical kiosk solution for rural areas with limited internet, offering offline medical consultation</td>
+    <td>SIH</td>
   </tr>
   <tr>
     <td><b>Python for Data Science</b></td>
@@ -206,19 +225,14 @@ I'm constantly working on new projects to sharpen my full-stack and system desig
     <td>NPTEL</td>
   </tr>
   <tr>
-    <td><b>Google Cloud Engineering Certificate</b></td>
-    <td>Deploying, managing, and scaling applications on GCP</td>
-    <td>Google Cloud</td>
-  </tr>
-  <tr>
     <td><b>Deep Learning for NLP</b></td>
-    <td>NLP techniques and neural network architectures for text/image tasks</td>
+    <td>NLP techniques, transformer models, neural networks, text classification</td>
     <td>Coursera</td>
   </tr>
   <tr>
-    <td><b>Blockchain Beyond Cryptocurrency</b></td>
-    <td>Blockchain fundamentals, smart contracts, and decentralized systems</td>
-    <td>Self-paced</td>
+    <td><b>Google Cloud Engineering Certificate</b></td>
+    <td>Deploying, managing, and scaling applications on GCP</td>
+    <td>Google Cloud</td>
   </tr>
 </table>
 
@@ -226,7 +240,12 @@ I'm constantly working on new projects to sharpen my full-stack and system desig
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
+
+<img src="https://img.shields.io/badge/💻_150+_DSA_Problems-6366F1?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📈_506+_GitHub_Contributions-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kamesh2103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamesh2103&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=EC4899" width="48%"/>
@@ -251,9 +270,9 @@ I'm constantly working on new projects to sharpen my full-stack and system desig
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/NSS_Volunteer-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Class_Representative_(60+_students)-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/NSS_Volunteer_(5+_events)-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/School_Pupil_Leader-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Class_Representative-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
 
 <br/><br/>
 
